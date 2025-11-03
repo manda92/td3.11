@@ -6,6 +6,6 @@ nb_secret = 31
 nb_utilisateur = int(input("Entrez un nombre : "))
 
 if nb_utilisateur == nb_secret:
-    print("Gagné")
+    print("Victoire")
 else:
     print("Perdu")
