@@ -1,1 +1,2 @@
-# td3.11
+Descriptif du code :
+L/
